@@ -1,3 +1,7 @@
 ye meri 2.txt h
+<<<<<<< Updated upstream
 
 ye h 2
+=======
+two
+>>>>>>> Stashed changes
